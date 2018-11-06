@@ -8,13 +8,12 @@ namespace CreateAnimalList
     {
         static void Main(string[] args)
         {
-            /*SerializeJson sj = new SerializeJson();
-            sj.SerializeAnimalJSON();*/
 
-            SerializeWithContracts ser = new SerializeWithContracts();
-            ser.GenerateList();
+            string path = @"C:\Users\Vaiva\source\repos\NEW\AnimalsList.json";
+
+            SerializeWithContracts.SerializeToJsonFile(path);
+
+ 
         }
-
     }
-
 }

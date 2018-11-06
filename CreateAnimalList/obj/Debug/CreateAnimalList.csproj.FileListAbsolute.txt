@@ -8,3 +8,13 @@ C:\Users\Vaiva\source\repos\NEW\CreateAnimalList\obj\Debug\CreateAnimalList.cspr
 C:\Users\Vaiva\source\repos\NEW\CreateAnimalList\obj\Debug\CreateAnimalList.csproj.CopyComplete
 C:\Users\Vaiva\source\repos\NEW\CreateAnimalList\obj\Debug\CreateAnimalList.exe
 C:\Users\Vaiva\source\repos\NEW\CreateAnimalList\obj\Debug\CreateAnimalList.pdb
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\bin\Debug\CreateAnimalList.exe.config
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\bin\Debug\CreateAnimalList.exe
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\bin\Debug\CreateAnimalList.pdb
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\obj\Debug\CreateAnimalList.csprojAssemblyReference.cache
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\obj\Debug\CreateAnimalList.csproj.CoreCompileInputs.cache
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\obj\Debug\CreateAnimalList.csproj.CopyComplete
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\obj\Debug\CreateAnimalList.exe
+C:\Users\Vaiva\Documents\GitHub\serialization\CreateAnimalList\obj\Debug\CreateAnimalList.pdb
