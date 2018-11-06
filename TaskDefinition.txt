@@ -1,0 +1,41 @@
+1.Susikurti faila - kokia nori struktūra išsivardinti iki 100 katinų ir iki 100 šunų. Kiekvienas gyvūnas turi turėti vardą is svorį. 
+2. Programoje nuskaityti iš failo šiuos duomenis (naudoti stream ir disposable) 
+3. Šita struktūra kurią parsinsiu turi būti sukelta į objektus, kurie atitinka polimorfizmą: objekto paveldėjimas nuo gyvūno - 
+	gyvūno vaikai yra katinas ir šuo su tam tikrais propeerčiais
+4. paskaičiuot atsikirai visų gyvūnų svorio vidurkis, atskirai šūnų, atskirai kačių
+5. Sukurti objektą apibūdinantį visą šitą summary ir išvesti į json failą (Deserializacija)
+š. kad pasijustų polimorfizmas
+
+
+perrasyti serializavima rankiniu butu
+*stringu
+*bytes (advanced)
+
+padaryt, kad kiekvienas gyvunas turetu seimininko num, kuris negali buti matomas plika akim
+padaryti kad butu enciriptinimas ar bitais sugoma. nu svarbu kad ne plain text
+
+gyvunai turi buti surasomi i daug failu, viename daugiau nei 15 gyvunu,
+crud operacijos - reikia galeti keisti ir prideti failus
+
+1. Create a list of cats and dog (up to 100 each type). List contains this information:
+	animal type - cat/dog
+	name
+	weight
+	if dog
+		how many km it runs per day
+	if cat
+		how many mouses it coughts per day
+	Owner ID which has to be encripted - 
+	use: polymorphism animal object child is dog and cat
+
+2. Write it to files:
+	a) custom format
+	b) json format
+	Files can't contain more than 15 animals
+	use: serialization
+	
+3. Add functionality to change or add animal entities
+
+
+
+	
