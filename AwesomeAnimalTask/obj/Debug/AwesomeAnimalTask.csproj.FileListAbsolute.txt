@@ -1,0 +1,10 @@
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\bin\Debug\AwesomeAnimalTask.exe.config
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\bin\Debug\AwesomeAnimalTask.exe
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\bin\Debug\AwesomeAnimalTask.pdb
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\obj\Debug\AwesomeAnimalTask.csproj.CoreCompileInputs.cache
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\obj\Debug\AwesomeAnimalTask.exe
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\obj\Debug\AwesomeAnimalTask.pdb
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\obj\Debug\AwesomeAnimalTask.csproj.CopyComplete
+C:\Users\Vaiva\source\repos\NEW\AwesomeAnimalTask\obj\Debug\AwesomeAnimalTask.csprojAssemblyReference.cache
